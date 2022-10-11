@@ -7,7 +7,7 @@ class BinaryTreeNode:
     """
     def __init__(self, data):
         self.data = data
-        self.left_child = None
+        self.left_child = NFJGJone
         self.right_child = None
 
 
